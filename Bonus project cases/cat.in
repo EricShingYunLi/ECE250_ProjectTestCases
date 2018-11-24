@@ -1,0 +1,86 @@
+new
+insert caa 1
+insert cab 1
+insert cac 1
+insert cad 1
+insert cae 1
+insert caf 1
+insert cag 1
+insert cah 1
+insert cai 1
+insert caj 1
+insert cak 1
+insert cal 1
+insert cam 1
+insert can 1
+insert cao 1
+insert cap 1
+insert caq 1
+insert car 1
+insert cas 1
+insert cat 1
+insert cau 1
+insert cav 1
+insert caw 1
+insert cax 1
+insert cay 1
+insert caz 1
+insert caa 0
+insert cab 0
+insert cac 0
+insert cad 0
+insert cae 0
+insert caf 0
+insert cag 0
+insert cah 0
+insert cai 0
+insert caj 0
+insert cak 0
+insert cal 0
+insert cam 0
+insert can 0
+insert cao 0
+insert cap 0
+insert caq 0
+insert car 0
+insert cas 0
+insert cat 0
+insert cau 0
+insert cav 0
+insert caw 0
+insert cax 0
+insert cay 0
+insert caz 0
+member caa 1
+member cab 1
+member cac 1
+member cad 1
+member cae 1
+member caf 1
+member cag 1
+member cah 1
+member cai 1
+member caj 1
+member cak 1
+member cal 1
+member cam 1
+member can 1
+member cao 1
+member cap 1
+member caq 1
+member car 1
+member cas 1
+member cat 1
+member cau 1
+member cav 1
+member caw 1
+member cax 1
+member cay 1
+member caz 1
+size 26
+empty 0
+clear
+size 0
+empty 1
+delete
+summary

@@ -1,0 +1,32 @@
+new
+push 10
+push 20
+push 25
+push 35
+push 45
+push 40
+push 41
+npl 2
+push 43
+push 48
+npl 2
+push 11
+npl 1
+push 40
+npl 2
+push 46
+pop 10
+npl 2
+pop 11
+npl 2
+pop 20
+npl 2
+pop 25
+npl 1
+pop 35
+npl 2
+count 40 2
+count 48 1
+top 40
+delete
+summary

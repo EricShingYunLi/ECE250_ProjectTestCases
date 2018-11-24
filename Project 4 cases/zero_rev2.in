@@ -1,0 +1,23 @@
+//doesn't test "insert!"
+new: 2
+insert 0
+insert 0
+insert 0
+insert 0
+size 4
+capacity 4
+member 0 1
+bin 0 0
+bin 1 0
+bin 2 0
+bin 3 0
+member 1 0
+remove 0 1
+remove 0 1
+remove 0 1
+remove 0 1
+remove 0 0
+size 0
+member 0 0
+delete
+summary

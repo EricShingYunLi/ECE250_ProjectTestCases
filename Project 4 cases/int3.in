@@ -1,0 +1,68 @@
+new: 2
+insert -24
+print
+insert -16
+print
+insert -8
+print
+insert 0
+print
+insert!
+bin 2 0
+remove 0 1
+member 0 0
+member 45 0
+member -8 1
+member -16 1
+member -24 1
+insert 45 
+print
+bin 2 45
+bin 3 -8
+bin 0 -24
+bin 1 -16
+size 4
+remove 45 1 
+member 45 0
+remove -24 1
+member -24 0
+remove -16 1
+member -16 0
+remove -8 1
+member -8 0
+size 0
+capacity 4
+clear
+insert -23
+member -16 0
+member -23 1
+print 
+insert -17
+member -16 0
+member -17 1
+print
+insert -67867
+member -24 0
+member -67867 1
+print 
+insert 789
+member 45 0
+member 789 1
+bin 0 -67867
+bin 1 -23
+bin 2 789
+bin 3 -17
+print
+insert!
+size 4
+remove -23 1 
+member -23 0
+remove -67867 1
+member -67867 0
+remove -17 1
+member -17 0
+remove 789 1
+member 789 0
+delete
+summary
+details

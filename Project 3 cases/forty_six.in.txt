@@ -1,0 +1,20 @@
+new
+push 50
+push 49
+top 49
+push 48
+push 47
+push 46
+push 45
+top 45
+npl 0
+push 46
+push 46
+push 46
+npl 1
+push 46
+npl 2
+count 46 5
+count 50 1
+delete
+summary

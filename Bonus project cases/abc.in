@@ -1,0 +1,18 @@
+new
+size 0
+empty 1
+root0
+insert a 1
+insert ab 1
+insert abc 1
+insert abcd 1
+insert abcde 1
+insert abcdef 1
+insert abd 1
+insert abb 1
+size 8
+erase abcd 1
+member abcdef 1
+member abcd 0
+clear
+summary

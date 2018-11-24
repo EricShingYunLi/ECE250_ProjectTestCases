@@ -1,0 +1,20 @@
+new
+empty 1
+size 0
+count 0 0
+count 1 0
+count 2 0
+pop!
+top!
+npl -1
+clear
+empty 1
+size 0
+count 0 0
+count 1 0
+count 2 0
+pop!
+top!
+npl -1
+delete
+summary

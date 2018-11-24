@@ -1,0 +1,41 @@
+new
+insert a 1
+insert b 1
+insert c 1
+insert d 1
+insert e 1
+insert f 1
+insert g 1
+insert h 1
+insert i 1
+insert j 1
+insert k 1
+insert l 1
+insert m 1
+insert n 1
+insert o 1
+insert p 1
+insert q 1
+insert r 1
+insert s 1
+insert t 1
+insert u 1
+insert v 1
+insert w 1
+insert x 1
+insert y 1
+insert z 1
+insert A 0
+insert B 0
+insert X 0
+insert Y 0
+insert Z 0
+size 26
+erase ab 0
+member xy 0
+member a 1
+member A 1
+member z 1
+member Z 1
+delete
+summary

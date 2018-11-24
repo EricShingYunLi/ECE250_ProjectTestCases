@@ -1,0 +1,42 @@
+new: 7
+insert 0 1 0.01 1
+insert 4 3 10 1
+insert 4 3 1.2 1
+insert! 4 3 -1.5
+insert 4 4 1.5 0
+insert! 4 4 -1.6
+insert 3 5 2.6 1
+insert 6 4 5.9 1
+insert 5 6 4.2 1
+insert 2 3 2.2 1
+insert 0 5 3.5 1
+insert 0 4 7 1
+insert 1 2 0.2 1
+edge_count 9
+degree 4 3
+degree 1 2
+degree 0 3
+degree 5 3
+degree 6 2
+mst 10.41 7
+clear
+edge_count 0
+erase 0 1 0
+erase 1 2 0
+erase 5 6 0
+erase! -1 -1
+erase! 50 50
+erase! -1 50
+erase! 50 -1
+erase! 0 -1
+erase! 0 50
+degree 0 0
+degree 1 0
+degree 2 0
+degree 3 0
+degree 4 0
+degree 5 0
+degree 6 0
+degree! 7
+delete
+summary

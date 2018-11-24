@@ -1,0 +1,15 @@
+new
+insert presentation 1
+insert president 1
+insert present 1
+erase presentation 1
+member present 1
+member president 1
+member presentation 0
+insert presentation 1
+erase president 1
+member presentation 1
+member present 1
+member president 0
+delete
+summary
